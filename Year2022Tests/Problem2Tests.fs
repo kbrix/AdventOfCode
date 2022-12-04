@@ -14,7 +14,7 @@ let ExamplePart2 () =
 [<Test>]
 let AnswerPart1 () =
     Assert.That(Problem2.solutionPart1 Problem2Data.inputData, Is.EqualTo(12458))
-    
+
 [<Test>]
 let AnswerPart2 () =
     Assert.That(Problem2.solutionPart2 Problem2Data.inputData, Is.EqualTo(12683))
