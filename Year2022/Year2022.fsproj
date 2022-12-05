@@ -14,6 +14,8 @@
         <Compile Include="Problem3.fs" />
         <Compile Include="Problem4Data.fs" />
         <Compile Include="Problem4.fs" />
+        <Compile Include="Problem5Data.fs" />
+        <Compile Include="Problem5.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
