@@ -4,6 +4,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Year2022", "Year2022\Year20
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Year2022Tests", "Year2022Tests\Year2022Tests.fsproj", "{0F46C861-8241-4E0B-A097-3F4857F0B3F1}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Year2023", "Year2023\Year2023.fsproj", "{F6F6E4BA-997A-420E-92AE-DAE4BE8030C7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Year2023Tests", "Year2023Tests\Year2023Tests.fsproj", "{1DB66FDB-C4B5-4E94-9C42-8177D6B05E17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{0F46C861-8241-4E0B-A097-3F4857F0B3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F46C861-8241-4E0B-A097-3F4857F0B3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F46C861-8241-4E0B-A097-3F4857F0B3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F6E4BA-997A-420E-92AE-DAE4BE8030C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F6E4BA-997A-420E-92AE-DAE4BE8030C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F6E4BA-997A-420E-92AE-DAE4BE8030C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F6E4BA-997A-420E-92AE-DAE4BE8030C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DB66FDB-C4B5-4E94-9C42-8177D6B05E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB66FDB-C4B5-4E94-9C42-8177D6B05E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB66FDB-C4B5-4E94-9C42-8177D6B05E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB66FDB-C4B5-4E94-9C42-8177D6B05E17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
